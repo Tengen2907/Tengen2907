@@ -42,7 +42,7 @@ I'm a Software Engineering student who builds applications with Java and is deep
 
 **Core**
 
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode&theme=dark" alt="Core tools">
+<img src="https://skillicons.dev/icons?i=java,git,github,linux,vscode&theme=dark" alt="Core tools">
 
 **Currently learning**
 
@@ -60,7 +60,7 @@ I'm a Software Engineering student who builds applications with Java and is deep
 | 🗄️ **Databases** | SQL · PostgreSQL · MySQL · Spring Data JPA / Hibernate *(learning)* |
 | 🧪 **Testing** | JUnit · Mockito *(learning)* |
 | 🚢 **DevOps** | Maven · Docker · AWS *(learning)* |
-| 🛠️ **Workflow** | Git · GitHub |
+| 🛠️ **Workflow** | Git · GitHub · Linux (Kali) |
 
 <details>
 <summary><b>🎯 Learning Roadmap (click to open)</b></summary>
